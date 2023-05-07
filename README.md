@@ -50,7 +50,9 @@ This project was built with the following technologies:
 - Formik&&yup
 
 ## Screen shoots 
-![first screen](https://i.imgur.com/o0NTBXp.png)
+![ screen](https://i.imgur.com/o0NTBXp.png)
+![ screen](https://i.imgur.com/fPGdpLW.png)
+![ screen](https://i.imgur.com/1yHrnGA.png)
 
 
 Special thanks to the developers of these technologies for making this project possible.
