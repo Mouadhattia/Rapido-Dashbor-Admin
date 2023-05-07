@@ -49,6 +49,8 @@ This project was built with the following technologies:
 - Bootstrap
 - Formik&&yup
 
+## Screen shoots 
+![Alt text](https://https://imgur.com/a/2KJkx3J)
 
 
 Special thanks to the developers of these technologies for making this project possible.
